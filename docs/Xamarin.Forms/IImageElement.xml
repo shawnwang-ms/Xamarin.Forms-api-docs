@@ -37,6 +37,44 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="IsAnimationPlaying">
+      <MemberSignature Language="C#" Value="public bool IsAnimationPlaying { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance bool IsAnimationPlaying" />
+      <MemberSignature Language="DocId" Value="P:Xamarin.Forms.IImageElement.IsAnimationPlaying" />
+      <MemberSignature Language="F#" Value="member this.IsAnimationPlaying : bool" Usage="Xamarin.Forms.IImageElement.IsAnimationPlaying" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Xamarin.Forms.Core</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Boolean</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="IsLoading">
+      <MemberSignature Language="C#" Value="public bool IsLoading { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance bool IsLoading" />
+      <MemberSignature Language="DocId" Value="P:Xamarin.Forms.IImageElement.IsLoading" />
+      <MemberSignature Language="F#" Value="member this.IsLoading : bool" Usage="Xamarin.Forms.IImageElement.IsLoading" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Xamarin.Forms.Core</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Boolean</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="IsOpaque">
       <MemberSignature Language="C#" Value="public bool IsOpaque { get; }" />
       <MemberSignature Language="ILAsm" Value=".property instance bool IsOpaque" />

@@ -126,30 +126,6 @@
     <Assembly Name="Xamarin.Forms.Platform" Version="2.0.0.0">
       <Attributes>
         <Attribute>
-          <AttributeName>System.Diagnostics.Debuggable</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyCompany("Microsoft")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyConfiguration("Release")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyFileVersion("4.3.0.336")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyInformationalVersion("4.3.0.3152150+336-sha.f9114b130-azdo.3152150.f9114b1306f2896cce07d358725f63ce6ab8cac5")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyMetadata("Version", "2.0.0.0")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyMetadata("PackageVersion", "4.3.0.3152150+336-sha.f9114b130-azdo.3152150")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyProduct("Xamarin.Forms")</AttributeName>
-        </Attribute>
-        <Attribute>
           <AttributeName>System.Reflection.AssemblyTitle("Xamarin.Forms.Platform")</AttributeName>
         </Attribute>
         <Attribute>
@@ -164,7 +140,42 @@
         <Attribute>
           <AttributeName>System.Runtime.Versioning.TargetFramework(".NETStandard,Version=v2.0", FrameworkDisplayName="")</AttributeName>
         </Attribute>
+        <Attribute>
+          <AttributeName>System.Diagnostics.Debuggable</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyCompany("Microsoft")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyMetadata("Version", "2.0.0.0")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyProduct("Xamarin.Forms")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyCompany("Microsoft")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyMetadata("Version", "2.0.0.0")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyProduct("Xamarin.Forms")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyConfiguration("Release")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyFileVersion("4.3.0.336")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyInformationalVersion("4.3.0.3152150+336-sha.f9114b130-azdo.3152150.f9114b1306f2896cce07d358725f63ce6ab8cac5")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyMetadata("PackageVersion", "4.3.0.3152150+336-sha.f9114b130-azdo.3152150")</AttributeName>
+        </Attribute>
       </Attributes>
+      <AssemblyPublicKey>[00 24 00 00 04 80 00 00 94 00 00 00 06 02 00 00 00 24 00 00 52 53 41 31 00 04 00 00 01 00 01 00 47 9b 17 88 b1 08 69 0e d3 55 90 ed c7 00 9a a9 41 1e d3 56 a7 72 4d 07 ef cb c4 c5 ad 95 d9 00 b0 e2 1b 63 7e 71 3c 3c 60 b2 b6 e7 c0 c7 97 7d 64 43 8e 64 15 7e ea 93 61 e6 10 31 bc f4 41 b6 ac 37 7d 41 1b f5 a4 bf 33 e5 94 c3 23 44 d0 32 2d 4e b7 48 0d 74 03 d3 cd 5e e4 35 de 45 de 2b 5c 62 c0 e8 0e eb 11 aa 34 b5 72 4d d0 51 37 f1 2e 33 95 97 c3 5e 77 96 13 fa c7 e4 81 ad 7e ab ]</AssemblyPublicKey>
+      <AssemblyPublicKey>[00 24 00 00 04 80 00 00 94 00 00 00 06 02 00 00 00 24 00 00 52 53 41 31 00 04 00 00 01 00 01 00 47 9b 17 88 b1 08 69 0e d3 55 90 ed c7 00 9a a9 41 1e d3 56 a7 72 4d 07 ef cb c4 c5 ad 95 d9 00 b0 e2 1b 63 7e 71 3c 3c 60 b2 b6 e7 c0 c7 97 7d 64 43 8e 64 15 7e ea 93 61 e6 10 31 bc f4 41 b6 ac 37 7d 41 1b f5 a4 bf 33 e5 94 c3 23 44 d0 32 2d 4e b7 48 0d 74 03 d3 cd 5e e4 35 de 45 de 2b 5c 62 c0 e8 0e eb 11 aa 34 b5 72 4d d0 51 37 f1 2e 33 95 97 c3 5e 77 96 13 fa c7 e4 81 ad 7e ab ]</AssemblyPublicKey>
     </Assembly>
     <Assembly Name="Xamarin.Forms.Core" Version="2.0.0.0">
       <Attributes>
@@ -325,13 +336,13 @@
           <AttributeName>System.Runtime.CompilerServices.InternalsVisibleTo("Xamarin.HotReload.Forms")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Reflection.AssemblyFileVersion("4.3.0.336")</AttributeName>
+          <AttributeName>System.Reflection.AssemblyFileVersion("4.4.0.375")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Reflection.AssemblyInformationalVersion("4.3.0.3152150+336-sha.f9114b130-azdo.3152150.f9114b1306f2896cce07d358725f63ce6ab8cac5")</AttributeName>
+          <AttributeName>System.Reflection.AssemblyInformationalVersion("4.4.0.991220-pre3+sha.67178561f-azdo.3288472.67178561f31a6f53a37e4bf2a77b7ef2b3c8b830")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Reflection.AssemblyMetadata("PackageVersion", "4.3.0.3152150+336-sha.f9114b130-azdo.3152150")</AttributeName>
+          <AttributeName>System.Reflection.AssemblyMetadata("PackageVersion", "4.4.0.991220-pre3+sha.67178561f-azdo.3288472")</AttributeName>
         </Attribute>
       </Attributes>
       <AssemblyPublicKey>[00 24 00 00 04 80 00 00 94 00 00 00 06 02 00 00 00 24 00 00 52 53 41 31 00 04 00 00 01 00 01 00 47 9b 17 88 b1 08 69 0e d3 55 90 ed c7 00 9a a9 41 1e d3 56 a7 72 4d 07 ef cb c4 c5 ad 95 d9 00 b0 e2 1b 63 7e 71 3c 3c 60 b2 b6 e7 c0 c7 97 7d 64 43 8e 64 15 7e ea 93 61 e6 10 31 bc f4 41 b6 ac 37 7d 41 1b f5 a4 bf 33 e5 94 c3 23 44 d0 32 2d 4e b7 48 0d 74 03 d3 cd 5e e4 35 de 45 de 2b 5c 62 c0 e8 0e eb 11 aa 34 b5 72 4d d0 51 37 f1 2e 33 95 97 c3 5e 77 96 13 fa c7 e4 81 ad 7e ab ]</AssemblyPublicKey>
@@ -373,18 +384,33 @@
           <AttributeName>System.Reflection.AssemblyTitle("Xamarin.Forms.Maps")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Reflection.AssemblyFileVersion("4.3.0.336")</AttributeName>
+          <AttributeName>System.Reflection.AssemblyFileVersion("4.4.0.375")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Reflection.AssemblyInformationalVersion("4.3.0.3152150+336-sha.f9114b130-azdo.3152150.f9114b1306f2896cce07d358725f63ce6ab8cac5")</AttributeName>
+          <AttributeName>System.Reflection.AssemblyInformationalVersion("4.4.0.991220-pre3+sha.67178561f-azdo.3288472.67178561f31a6f53a37e4bf2a77b7ef2b3c8b830")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Reflection.AssemblyMetadata("PackageVersion", "4.3.0.3152150+336-sha.f9114b130-azdo.3152150")</AttributeName>
+          <AttributeName>System.Reflection.AssemblyMetadata("PackageVersion", "4.4.0.991220-pre3+sha.67178561f-azdo.3288472")</AttributeName>
         </Attribute>
       </Attributes>
     </Assembly>
     <Assembly Name="Xamarin.Forms.Platform" Version="2.0.0.0">
       <Attributes>
+        <Attribute>
+          <AttributeName>System.Diagnostics.Debuggable</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyCompany("Microsoft")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyConfiguration("Release")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyMetadata("Version", "2.0.0.0")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyProduct("Xamarin.Forms")</AttributeName>
+        </Attribute>
         <Attribute>
           <AttributeName>System.Reflection.AssemblyTitle("Xamarin.Forms.Platform")</AttributeName>
         </Attribute>
@@ -401,41 +427,15 @@
           <AttributeName>System.Runtime.Versioning.TargetFramework(".NETStandard,Version=v2.0", FrameworkDisplayName="")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Diagnostics.Debuggable</AttributeName>
+          <AttributeName>System.Reflection.AssemblyFileVersion("4.4.0.375")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Reflection.AssemblyCompany("Microsoft")</AttributeName>
+          <AttributeName>System.Reflection.AssemblyInformationalVersion("4.4.0.991220-pre3+sha.67178561f-azdo.3288472.67178561f31a6f53a37e4bf2a77b7ef2b3c8b830")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Reflection.AssemblyMetadata("Version", "2.0.0.0")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyProduct("Xamarin.Forms")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyCompany("Microsoft")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyMetadata("Version", "2.0.0.0")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyProduct("Xamarin.Forms")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyConfiguration("Release")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyFileVersion("4.3.0.336")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyInformationalVersion("4.3.0.3152150+336-sha.f9114b130-azdo.3152150.f9114b1306f2896cce07d358725f63ce6ab8cac5")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyMetadata("PackageVersion", "4.3.0.3152150+336-sha.f9114b130-azdo.3152150")</AttributeName>
+          <AttributeName>System.Reflection.AssemblyMetadata("PackageVersion", "4.4.0.991220-pre3+sha.67178561f-azdo.3288472")</AttributeName>
         </Attribute>
       </Attributes>
-      <AssemblyPublicKey>[00 24 00 00 04 80 00 00 94 00 00 00 06 02 00 00 00 24 00 00 52 53 41 31 00 04 00 00 01 00 01 00 47 9b 17 88 b1 08 69 0e d3 55 90 ed c7 00 9a a9 41 1e d3 56 a7 72 4d 07 ef cb c4 c5 ad 95 d9 00 b0 e2 1b 63 7e 71 3c 3c 60 b2 b6 e7 c0 c7 97 7d 64 43 8e 64 15 7e ea 93 61 e6 10 31 bc f4 41 b6 ac 37 7d 41 1b f5 a4 bf 33 e5 94 c3 23 44 d0 32 2d 4e b7 48 0d 74 03 d3 cd 5e e4 35 de 45 de 2b 5c 62 c0 e8 0e eb 11 aa 34 b5 72 4d d0 51 37 f1 2e 33 95 97 c3 5e 77 96 13 fa c7 e4 81 ad 7e ab ]</AssemblyPublicKey>
-      <AssemblyPublicKey>[00 24 00 00 04 80 00 00 94 00 00 00 06 02 00 00 00 24 00 00 52 53 41 31 00 04 00 00 01 00 01 00 47 9b 17 88 b1 08 69 0e d3 55 90 ed c7 00 9a a9 41 1e d3 56 a7 72 4d 07 ef cb c4 c5 ad 95 d9 00 b0 e2 1b 63 7e 71 3c 3c 60 b2 b6 e7 c0 c7 97 7d 64 43 8e 64 15 7e ea 93 61 e6 10 31 bc f4 41 b6 ac 37 7d 41 1b f5 a4 bf 33 e5 94 c3 23 44 d0 32 2d 4e b7 48 0d 74 03 d3 cd 5e e4 35 de 45 de 2b 5c 62 c0 e8 0e eb 11 aa 34 b5 72 4d d0 51 37 f1 2e 33 95 97 c3 5e 77 96 13 fa c7 e4 81 ad 7e ab ]</AssemblyPublicKey>
     </Assembly>
     <Assembly Name="Xamarin.Forms.Xaml" Version="2.0.0.0">
       <Attributes>
@@ -512,15 +512,6 @@
           <AttributeName>System.Runtime.CompilerServices.InternalsVisibleTo("Xamarin.HotReload.Forms")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Reflection.AssemblyFileVersion("4.3.0.336")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyInformationalVersion("4.3.0.3152150+336-sha.f9114b130-azdo.3152150.f9114b1306f2896cce07d358725f63ce6ab8cac5")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyMetadata("PackageVersion", "4.3.0.3152150+336-sha.f9114b130-azdo.3152150")</AttributeName>
-        </Attribute>
-        <Attribute>
           <AttributeName>System.Runtime.CompilerServices.CompilationRelaxations(8)</AttributeName>
         </Attribute>
         <Attribute>
@@ -534,6 +525,15 @@
         </Attribute>
         <Attribute>
           <AttributeName>System.Runtime.CompilerServices.InternalsVisibleTo("Xamarin.HotReload.UnitTests")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyFileVersion("4.4.0.375")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyInformationalVersion("4.4.0.991220-pre3+sha.67178561f-azdo.3288472.67178561f31a6f53a37e4bf2a77b7ef2b3c8b830")</AttributeName>
+        </Attribute>
+        <Attribute>
+          <AttributeName>System.Reflection.AssemblyMetadata("PackageVersion", "4.4.0.991220-pre3+sha.67178561f-azdo.3288472")</AttributeName>
         </Attribute>
       </Attributes>
       <AssemblyPublicKey>[00 24 00 00 04 80 00 00 94 00 00 00 06 02 00 00 00 24 00 00 52 53 41 31 00 04 00 00 01 00 01 00 47 9b 17 88 b1 08 69 0e d3 55 90 ed c7 00 9a a9 41 1e d3 56 a7 72 4d 07 ef cb c4 c5 ad 95 d9 00 b0 e2 1b 63 7e 71 3c 3c 60 b2 b6 e7 c0 c7 97 7d 64 43 8e 64 15 7e ea 93 61 e6 10 31 bc f4 41 b6 ac 37 7d 41 1b f5 a4 bf 33 e5 94 c3 23 44 d0 32 2d 4e b7 48 0d 74 03 d3 cd 5e e4 35 de 45 de 2b 5c 62 c0 e8 0e eb 11 aa 34 b5 72 4d d0 51 37 f1 2e 33 95 97 c3 5e 77 96 13 fa c7 e4 81 ad 7e ab ]</AssemblyPublicKey>
@@ -561,6 +561,7 @@
       <Type Name="BackButtonPressedEventArgs" Kind="Class" />
       <Type Name="BaseMenuItem" Kind="Class" />
       <Type Name="BaseShellItem" Kind="Class" />
+      <Type Name="BaseSwipeEventArgs" Kind="Class" />
       <Type Name="Behavior" Kind="Class" />
       <Type Name="Behavior`1" DisplayName="Behavior&lt;T&gt;" Kind="Class" />
       <Type Name="BindableLayout" Kind="Class" />
@@ -742,6 +743,8 @@
       <Type Name="INativeElementView" Kind="Interface" />
       <Type Name="INavigation" Kind="Interface" />
       <Type Name="INavigationPageController" Kind="Interface" />
+      <Type Name="IndicatorShape" Kind="Enumeration" />
+      <Type Name="IndicatorView" Kind="Class" />
       <Type Name="InitializationFlags" Kind="Enumeration" />
       <Type Name="InputView" Kind="Class" />
       <Type Name="InvalidNavigationException" Kind="Class" />
@@ -765,6 +768,8 @@
       <Type Name="ISliderController" Kind="Interface" />
       <Type Name="IStreamImageSource" Kind="Interface" />
       <Type Name="ISwipeGestureController" Kind="Interface" />
+      <Type Name="ISwipeItem" Kind="Interface" />
+      <Type Name="ISwipeViewController" Kind="Interface" />
       <Type Name="ITableModel" Kind="Interface" />
       <Type Name="ITableViewController" Kind="Interface" />
       <Type Name="ITabStopElement" Kind="Interface" />
@@ -864,6 +869,7 @@
       <Type Name="RowDefinitionCollection" Kind="Class" />
       <Type Name="ScrollBarVisibility" Kind="Enumeration" />
       <Type Name="ScrolledEventArgs" Kind="Class" />
+      <Type Name="ScrollMode" Kind="Enumeration" />
       <Type Name="ScrollOrientation" Kind="Enumeration" />
       <Type Name="ScrollToMode" Kind="Enumeration" />
       <Type Name="ScrollToPosition" Kind="Enumeration" />
@@ -904,9 +910,18 @@
       <Type Name="StreamImageSource" Kind="Class" />
       <Type Name="StructuredItemsView" Kind="Class" />
       <Type Name="Style" Kind="Class" />
+      <Type Name="SwipeBehaviorOnInvoked" Kind="Enumeration" />
+      <Type Name="SwipeChangingEventArgs" Kind="Class" />
       <Type Name="SwipedEventArgs" Kind="Class" />
       <Type Name="SwipeDirection" Kind="Enumeration" />
+      <Type Name="SwipeEndedEventArgs" Kind="Class" />
       <Type Name="SwipeGestureRecognizer" Kind="Class" />
+      <Type Name="SwipeItem" Kind="Class" />
+      <Type Name="SwipeItems" Kind="Class" />
+      <Type Name="SwipeItemView" Kind="Class" />
+      <Type Name="SwipeMode" Kind="Enumeration" />
+      <Type Name="SwipeStartedEventArgs" Kind="Class" />
+      <Type Name="SwipeView" Kind="Class" />
       <Type Name="Switch" Kind="Class" />
       <Type Name="SwitchCell" Kind="Class" />
       <Type Name="Tab" Kind="Class" />
@@ -1003,6 +1018,15 @@
       <Type Name="EvaluateJavaScriptDelegate" Kind="Delegate" />
       <Type Name="EventArg`1" DisplayName="EventArg&lt;T&gt;" Kind="Class" />
       <Type Name="ExpressionSearch" Kind="Class" />
+      <Type Name="GIFBitmap" Kind="Class" />
+      <Type Name="GIFBitmap+DisposeMethod" Kind="Enumeration" />
+      <Type Name="GIFBitmap+Rect" Kind="Class" />
+      <Type Name="GIFBitmapDecoder" Kind="Class" />
+      <Type Name="GIFColorTable" Kind="Class" />
+      <Type Name="GIFDecoderFormatException" Kind="Class" />
+      <Type Name="GIFDecoderStreamReader" Kind="Class" />
+      <Type Name="GIFHeader" Kind="Class" />
+      <Type Name="GIFImageParser" Kind="Class" />
       <Type Name="IDataTemplate" Kind="Interface" />
       <Type Name="IDataTemplateController" Kind="Interface" />
       <Type Name="IDeserializer" Kind="Interface" />
@@ -1047,6 +1071,7 @@
       <Type Name="ResourceLoader+ResourceLoadingResponse" Kind="Class" />
       <Type Name="ResourcesChangedEventArgs" Kind="Class" />
       <Type Name="SetValueFlags" Kind="Enumeration" />
+      <Type Name="SwipeDirectionHelper" Kind="Class" />
       <Type Name="TableModel" Kind="Class" />
       <Type Name="TemplatedItemsList`2" DisplayName="TemplatedItemsList&lt;TView,TItem&gt;" Kind="Class" />
       <Type Name="Ticker" Kind="Class" />
@@ -1090,6 +1115,8 @@
       <Type Name="ListView" Kind="Class" />
       <Type Name="MixedContentHandling" Kind="Enumeration" />
       <Type Name="ShellItem" Kind="Class" />
+      <Type Name="SwipeTransitionMode" Kind="Enumeration" />
+      <Type Name="SwipeView" Kind="Class" />
       <Type Name="TabbedPage" Kind="Class" />
       <Type Name="ToolbarPlacement" Kind="Enumeration" />
       <Type Name="ViewCell" Kind="Class" />
@@ -1123,6 +1150,8 @@
       <Type Name="Slider" Kind="Class" />
       <Type Name="StatusBarHiddenMode" Kind="Enumeration" />
       <Type Name="StatusBarTextColorMode" Kind="Enumeration" />
+      <Type Name="SwipeTransitionMode" Kind="Enumeration" />
+      <Type Name="SwipeView" Kind="Class" />
       <Type Name="UIModalPresentationStyle" Kind="Enumeration" />
       <Type Name="UIStatusBarAnimation" Kind="Enumeration" />
       <Type Name="UpdateMode" Kind="Enumeration" />
@@ -1203,6 +1232,12 @@
       <Type Name="XamlParseException" Kind="Class" />
       <Type Name="XamlResourceIdAttribute" Kind="Class" />
       <Type Name="XmlLineInfo" Kind="Class" />
+    </Namespace>
+    <Namespace Name="Xamarin.Forms.Xaml.Diagnostics">
+      <Type Name="VisualDiagnostics" Kind="Class" />
+      <Type Name="VisualTreeChangeEventArgs" Kind="Class" />
+      <Type Name="VisualTreeChangeType" Kind="Enumeration" />
+      <Type Name="XamlSourceInfo" Kind="Class" />
     </Namespace>
     <Namespace Name="Xamarin.Forms.Xaml.Internals">
       <Type Name="INativeBindingService" Kind="Interface" />
@@ -1457,6 +1492,29 @@
           <summary>Returns a Boolean value that indicates whether or not the animation that is specified by <paramref name="handle" /> is running.</summary>
         </Docs>
         <Link Type="Xamarin.Forms.AnimationExtensions" Member="M:Xamarin.Forms.AnimationExtensions.AnimationIsRunning(Xamarin.Forms.IAnimatable,System.String)" />
+      </Member>
+    </ExtensionMethod>
+    <ExtensionMethod>
+      <Targets>
+        <Target Type="T:Xamarin.Forms.IAnimatable" />
+      </Targets>
+      <Member MemberName="Batch">
+        <MemberSignature Language="C#" Value="public static IDisposable Batch (this Xamarin.Forms.IAnimatable self);" />
+        <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.IDisposable Batch(class Xamarin.Forms.IAnimatable self) cil managed" />
+        <MemberSignature Language="DocId" Value="M:Xamarin.Forms.AnimationExtensions.Batch(Xamarin.Forms.IAnimatable)" />
+        <MemberSignature Language="F#" Value="static member Batch : Xamarin.Forms.IAnimatable -&gt; IDisposable" Usage="Xamarin.Forms.AnimationExtensions.Batch self" />
+        <MemberType>ExtensionMethod</MemberType>
+        <ReturnValue>
+          <ReturnType>System.IDisposable</ReturnType>
+        </ReturnValue>
+        <Parameters>
+          <Parameter Name="self" Type="Xamarin.Forms.IAnimatable" RefType="this" />
+        </Parameters>
+        <Docs>
+          <param name="self">To be added.</param>
+          <summary>To be added.</summary>
+        </Docs>
+        <Link Type="Xamarin.Forms.AnimationExtensions" Member="M:Xamarin.Forms.AnimationExtensions.Batch(Xamarin.Forms.IAnimatable)" />
       </Member>
     </ExtensionMethod>
     <ExtensionMethod>
@@ -3310,6 +3368,54 @@
           <summary>Sets the attached property that controls whether fast scrolling is enabled.</summary>
         </Docs>
         <Link Type="Xamarin.Forms.PlatformConfiguration.AndroidSpecific.ListView" Member="M:Xamarin.Forms.PlatformConfiguration.AndroidSpecific.ListView.SetIsFastScrollEnabled(Xamarin.Forms.IPlatformElementConfiguration{Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.ListView},System.Boolean)" />
+      </Member>
+    </ExtensionMethod>
+    <ExtensionMethod>
+      <Targets>
+        <Target Type="T:Xamarin.Forms.IPlatformElementConfiguration`2" />
+      </Targets>
+      <Member MemberName="GetSwipeTransitionMode">
+        <MemberSignature Language="C#" Value="public static Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeTransitionMode GetSwipeTransitionMode (this Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.SwipeView&gt; config);" />
+        <MemberSignature Language="ILAsm" Value=".method public static hidebysig valuetype Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeTransitionMode GetSwipeTransitionMode(class Xamarin.Forms.IPlatformElementConfiguration`2&lt;class Xamarin.Forms.PlatformConfiguration.Android, class Xamarin.Forms.SwipeView&gt; config) cil managed" />
+        <MemberSignature Language="DocId" Value="M:Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeView.GetSwipeTransitionMode(Xamarin.Forms.IPlatformElementConfiguration{Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.SwipeView})" />
+        <MemberSignature Language="F#" Value="static member GetSwipeTransitionMode : Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.Android, Xamarin.Forms.SwipeView&gt; -&gt; Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeTransitionMode" Usage="Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeView.GetSwipeTransitionMode config" />
+        <MemberType>ExtensionMethod</MemberType>
+        <ReturnValue>
+          <ReturnType>Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeTransitionMode</ReturnType>
+        </ReturnValue>
+        <Parameters>
+          <Parameter Name="config" Type="Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.SwipeView&gt;" RefType="this" />
+        </Parameters>
+        <Docs>
+          <param name="config">To be added.</param>
+          <summary>To be added.</summary>
+        </Docs>
+        <Link Type="Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeView" Member="M:Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeView.GetSwipeTransitionMode(Xamarin.Forms.IPlatformElementConfiguration{Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.SwipeView})" />
+      </Member>
+    </ExtensionMethod>
+    <ExtensionMethod>
+      <Targets>
+        <Target Type="T:Xamarin.Forms.IPlatformElementConfiguration`2" />
+      </Targets>
+      <Member MemberName="SetSwipeTransitionMode">
+        <MemberSignature Language="C#" Value="public static Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.SwipeView&gt; SetSwipeTransitionMode (this Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.SwipeView&gt; config, Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeTransitionMode value);" />
+        <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Xamarin.Forms.IPlatformElementConfiguration`2&lt;class Xamarin.Forms.PlatformConfiguration.Android, class Xamarin.Forms.SwipeView&gt; SetSwipeTransitionMode(class Xamarin.Forms.IPlatformElementConfiguration`2&lt;class Xamarin.Forms.PlatformConfiguration.Android, class Xamarin.Forms.SwipeView&gt; config, valuetype Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeTransitionMode value) cil managed" />
+        <MemberSignature Language="DocId" Value="M:Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeView.SetSwipeTransitionMode(Xamarin.Forms.IPlatformElementConfiguration{Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.SwipeView},Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeTransitionMode)" />
+        <MemberSignature Language="F#" Value="static member SetSwipeTransitionMode : Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.Android, Xamarin.Forms.SwipeView&gt; * Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeTransitionMode -&gt; Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.Android, Xamarin.Forms.SwipeView&gt;" Usage="Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeView.SetSwipeTransitionMode (config, value)" />
+        <MemberType>ExtensionMethod</MemberType>
+        <ReturnValue>
+          <ReturnType>Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.SwipeView&gt;</ReturnType>
+        </ReturnValue>
+        <Parameters>
+          <Parameter Name="config" Type="Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.SwipeView&gt;" RefType="this" />
+          <Parameter Name="value" Type="Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeTransitionMode" />
+        </Parameters>
+        <Docs>
+          <param name="config">To be added.</param>
+          <param name="value">To be added.</param>
+          <summary>To be added.</summary>
+        </Docs>
+        <Link Type="Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeView" Member="M:Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeView.SetSwipeTransitionMode(Xamarin.Forms.IPlatformElementConfiguration{Xamarin.Forms.PlatformConfiguration.Android,Xamarin.Forms.SwipeView},Xamarin.Forms.PlatformConfiguration.AndroidSpecific.SwipeTransitionMode)" />
       </Member>
     </ExtensionMethod>
     <ExtensionMethod>
@@ -5403,6 +5509,54 @@
           <summary>Sets a Boolean value that tells whether tapping on the slider will update its value.</summary>
         </Docs>
         <Link Type="Xamarin.Forms.PlatformConfiguration.iOSSpecific.Slider" Member="M:Xamarin.Forms.PlatformConfiguration.iOSSpecific.Slider.SetUpdateOnTap(Xamarin.Forms.IPlatformElementConfiguration{Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.Slider},System.Boolean)" />
+      </Member>
+    </ExtensionMethod>
+    <ExtensionMethod>
+      <Targets>
+        <Target Type="T:Xamarin.Forms.IPlatformElementConfiguration`2" />
+      </Targets>
+      <Member MemberName="GetSwipeTransitionMode">
+        <MemberSignature Language="C#" Value="public static Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeTransitionMode GetSwipeTransitionMode (this Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.SwipeView&gt; config);" />
+        <MemberSignature Language="ILAsm" Value=".method public static hidebysig valuetype Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeTransitionMode GetSwipeTransitionMode(class Xamarin.Forms.IPlatformElementConfiguration`2&lt;class Xamarin.Forms.PlatformConfiguration.iOS, class Xamarin.Forms.SwipeView&gt; config) cil managed" />
+        <MemberSignature Language="DocId" Value="M:Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeView.GetSwipeTransitionMode(Xamarin.Forms.IPlatformElementConfiguration{Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.SwipeView})" />
+        <MemberSignature Language="F#" Value="static member GetSwipeTransitionMode : Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.iOS, Xamarin.Forms.SwipeView&gt; -&gt; Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeTransitionMode" Usage="Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeView.GetSwipeTransitionMode config" />
+        <MemberType>ExtensionMethod</MemberType>
+        <ReturnValue>
+          <ReturnType>Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeTransitionMode</ReturnType>
+        </ReturnValue>
+        <Parameters>
+          <Parameter Name="config" Type="Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.SwipeView&gt;" RefType="this" />
+        </Parameters>
+        <Docs>
+          <param name="config">To be added.</param>
+          <summary>To be added.</summary>
+        </Docs>
+        <Link Type="Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeView" Member="M:Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeView.GetSwipeTransitionMode(Xamarin.Forms.IPlatformElementConfiguration{Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.SwipeView})" />
+      </Member>
+    </ExtensionMethod>
+    <ExtensionMethod>
+      <Targets>
+        <Target Type="T:Xamarin.Forms.IPlatformElementConfiguration`2" />
+      </Targets>
+      <Member MemberName="SetSwipeTransitionMode">
+        <MemberSignature Language="C#" Value="public static Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.SwipeView&gt; SetSwipeTransitionMode (this Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.SwipeView&gt; config, Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeTransitionMode value);" />
+        <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Xamarin.Forms.IPlatformElementConfiguration`2&lt;class Xamarin.Forms.PlatformConfiguration.iOS, class Xamarin.Forms.SwipeView&gt; SetSwipeTransitionMode(class Xamarin.Forms.IPlatformElementConfiguration`2&lt;class Xamarin.Forms.PlatformConfiguration.iOS, class Xamarin.Forms.SwipeView&gt; config, valuetype Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeTransitionMode value) cil managed" />
+        <MemberSignature Language="DocId" Value="M:Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeView.SetSwipeTransitionMode(Xamarin.Forms.IPlatformElementConfiguration{Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.SwipeView},Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeTransitionMode)" />
+        <MemberSignature Language="F#" Value="static member SetSwipeTransitionMode : Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.iOS, Xamarin.Forms.SwipeView&gt; * Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeTransitionMode -&gt; Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.iOS, Xamarin.Forms.SwipeView&gt;" Usage="Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeView.SetSwipeTransitionMode (config, value)" />
+        <MemberType>ExtensionMethod</MemberType>
+        <ReturnValue>
+          <ReturnType>Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.SwipeView&gt;</ReturnType>
+        </ReturnValue>
+        <Parameters>
+          <Parameter Name="config" Type="Xamarin.Forms.IPlatformElementConfiguration&lt;Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.SwipeView&gt;" RefType="this" />
+          <Parameter Name="value" Type="Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeTransitionMode" />
+        </Parameters>
+        <Docs>
+          <param name="config">To be added.</param>
+          <param name="value">To be added.</param>
+          <summary>To be added.</summary>
+        </Docs>
+        <Link Type="Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeView" Member="M:Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeView.SetSwipeTransitionMode(Xamarin.Forms.IPlatformElementConfiguration{Xamarin.Forms.PlatformConfiguration.iOS,Xamarin.Forms.SwipeView},Xamarin.Forms.PlatformConfiguration.iOSSpecific.SwipeTransitionMode)" />
       </Member>
     </ExtensionMethod>
     <ExtensionMethod>
@@ -8296,6 +8450,64 @@
           <summary>Returns a task that scales the <see cref="T:Xamarin.Forms.VisualElement" /> that is specified by <paramref name="view" /> to the absolute scale factor <paramref name="scale" />.</summary>
         </Docs>
         <Link Type="Xamarin.Forms.ViewExtensions" Member="M:Xamarin.Forms.ViewExtensions.ScaleTo(Xamarin.Forms.VisualElement,System.Double,System.UInt32,Xamarin.Forms.Easing)" />
+      </Member>
+    </ExtensionMethod>
+    <ExtensionMethod>
+      <Targets>
+        <Target Type="T:Xamarin.Forms.VisualElement" />
+      </Targets>
+      <Member MemberName="ScaleXTo">
+        <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;bool&gt; ScaleXTo (this Xamarin.Forms.VisualElement view, double scale, uint length = 250, Xamarin.Forms.Easing easing = null);" />
+        <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;bool&gt; ScaleXTo(class Xamarin.Forms.VisualElement view, float64 scale, unsigned int32 length, class Xamarin.Forms.Easing easing) cil managed" />
+        <MemberSignature Language="DocId" Value="M:Xamarin.Forms.ViewExtensions.ScaleXTo(Xamarin.Forms.VisualElement,System.Double,System.UInt32,Xamarin.Forms.Easing)" />
+        <MemberSignature Language="F#" Value="static member ScaleXTo : Xamarin.Forms.VisualElement * double * uint32 * Xamarin.Forms.Easing -&gt; System.Threading.Tasks.Task&lt;bool&gt;" Usage="Xamarin.Forms.ViewExtensions.ScaleXTo (view, scale, length, easing)" />
+        <MemberType>ExtensionMethod</MemberType>
+        <ReturnValue>
+          <ReturnType>System.Threading.Tasks.Task&lt;System.Boolean&gt;</ReturnType>
+        </ReturnValue>
+        <Parameters>
+          <Parameter Name="view" Type="Xamarin.Forms.VisualElement" RefType="this" />
+          <Parameter Name="scale" Type="System.Double" />
+          <Parameter Name="length" Type="System.UInt32" />
+          <Parameter Name="easing" Type="Xamarin.Forms.Easing" />
+        </Parameters>
+        <Docs>
+          <param name="view">To be added.</param>
+          <param name="scale">To be added.</param>
+          <param name="length">To be added.</param>
+          <param name="easing">To be added.</param>
+          <summary>To be added.</summary>
+        </Docs>
+        <Link Type="Xamarin.Forms.ViewExtensions" Member="M:Xamarin.Forms.ViewExtensions.ScaleXTo(Xamarin.Forms.VisualElement,System.Double,System.UInt32,Xamarin.Forms.Easing)" />
+      </Member>
+    </ExtensionMethod>
+    <ExtensionMethod>
+      <Targets>
+        <Target Type="T:Xamarin.Forms.VisualElement" />
+      </Targets>
+      <Member MemberName="ScaleYTo">
+        <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;bool&gt; ScaleYTo (this Xamarin.Forms.VisualElement view, double scale, uint length = 250, Xamarin.Forms.Easing easing = null);" />
+        <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;bool&gt; ScaleYTo(class Xamarin.Forms.VisualElement view, float64 scale, unsigned int32 length, class Xamarin.Forms.Easing easing) cil managed" />
+        <MemberSignature Language="DocId" Value="M:Xamarin.Forms.ViewExtensions.ScaleYTo(Xamarin.Forms.VisualElement,System.Double,System.UInt32,Xamarin.Forms.Easing)" />
+        <MemberSignature Language="F#" Value="static member ScaleYTo : Xamarin.Forms.VisualElement * double * uint32 * Xamarin.Forms.Easing -&gt; System.Threading.Tasks.Task&lt;bool&gt;" Usage="Xamarin.Forms.ViewExtensions.ScaleYTo (view, scale, length, easing)" />
+        <MemberType>ExtensionMethod</MemberType>
+        <ReturnValue>
+          <ReturnType>System.Threading.Tasks.Task&lt;System.Boolean&gt;</ReturnType>
+        </ReturnValue>
+        <Parameters>
+          <Parameter Name="view" Type="Xamarin.Forms.VisualElement" RefType="this" />
+          <Parameter Name="scale" Type="System.Double" />
+          <Parameter Name="length" Type="System.UInt32" />
+          <Parameter Name="easing" Type="Xamarin.Forms.Easing" />
+        </Parameters>
+        <Docs>
+          <param name="view">To be added.</param>
+          <param name="scale">To be added.</param>
+          <param name="length">To be added.</param>
+          <param name="easing">To be added.</param>
+          <summary>To be added.</summary>
+        </Docs>
+        <Link Type="Xamarin.Forms.ViewExtensions" Member="M:Xamarin.Forms.ViewExtensions.ScaleYTo(Xamarin.Forms.VisualElement,System.Double,System.UInt32,Xamarin.Forms.Easing)" />
       </Member>
     </ExtensionMethod>
     <ExtensionMethod>

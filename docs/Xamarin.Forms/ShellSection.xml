@@ -578,5 +578,53 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="Xamarin.Forms.IShellSectionController.SendPopped">
+      <MemberSignature Language="C#" Value="void IShellSectionController.SendPopped (Xamarin.Forms.Page page);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance void Xamarin.Forms.IShellSectionController.SendPopped(class Xamarin.Forms.Page page) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Xamarin.Forms.ShellSection.Xamarin#Forms#IShellSectionController#SendPopped(Xamarin.Forms.Page)" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:Xamarin.Forms.IShellSectionController.SendPopped(Xamarin.Forms.Page)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Xamarin.Forms.Core</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Void</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="page" Type="Xamarin.Forms.Page" />
+      </Parameters>
+      <Docs>
+        <param name="page">To be added.</param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="Xamarin.Forms.IShellSectionController.SendPopping">
+      <MemberSignature Language="C#" Value="void IShellSectionController.SendPopping (Xamarin.Forms.Page page);" />
+      <MemberSignature Language="ILAsm" Value=".method hidebysig newslot virtual instance void Xamarin.Forms.IShellSectionController.SendPopping(class Xamarin.Forms.Page page) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Xamarin.Forms.ShellSection.Xamarin#Forms#IShellSectionController#SendPopping(Xamarin.Forms.Page)" />
+      <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:Xamarin.Forms.IShellSectionController.SendPopping(Xamarin.Forms.Page)</InterfaceMember>
+      </Implements>
+      <AssemblyInfo>
+        <AssemblyName>Xamarin.Forms.Core</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Void</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="page" Type="Xamarin.Forms.Page" />
+      </Parameters>
+      <Docs>
+        <param name="page">To be added.</param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
   </Members>
 </Type>

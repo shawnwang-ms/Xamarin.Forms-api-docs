@@ -536,6 +536,43 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="FlyoutVerticalScrollMode">
+      <MemberSignature Language="C#" Value="public Xamarin.Forms.ScrollMode FlyoutVerticalScrollMode { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype Xamarin.Forms.ScrollMode FlyoutVerticalScrollMode" />
+      <MemberSignature Language="DocId" Value="P:Xamarin.Forms.Shell.FlyoutVerticalScrollMode" />
+      <MemberSignature Language="F#" Value="member this.FlyoutVerticalScrollMode : Xamarin.Forms.ScrollMode with get, set" Usage="Xamarin.Forms.Shell.FlyoutVerticalScrollMode" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Xamarin.Forms.Core</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Xamarin.Forms.ScrollMode</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="FlyoutVerticalScrollModeProperty">
+      <MemberSignature Language="C#" Value="public static readonly Xamarin.Forms.BindableProperty FlyoutVerticalScrollModeProperty;" />
+      <MemberSignature Language="ILAsm" Value=".field public static initonly class Xamarin.Forms.BindableProperty FlyoutVerticalScrollModeProperty" />
+      <MemberSignature Language="DocId" Value="F:Xamarin.Forms.Shell.FlyoutVerticalScrollModeProperty" />
+      <MemberSignature Language="F#" Value=" staticval mutable FlyoutVerticalScrollModeProperty : Xamarin.Forms.BindableProperty" Usage="Xamarin.Forms.Shell.FlyoutVerticalScrollModeProperty" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Xamarin.Forms.Core</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="ForegroundColorProperty">
       <MemberSignature Language="C#" Value="public static readonly Xamarin.Forms.BindableProperty ForegroundColorProperty;" />
       <MemberSignature Language="ILAsm" Value=".field public static initonly class Xamarin.Forms.BindableProperty ForegroundColorProperty" />
@@ -704,6 +741,29 @@
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Xamarin.Forms.DataTemplate</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="obj" Type="Xamarin.Forms.BindableObject" />
+      </Parameters>
+      <Docs>
+        <param name="obj">To be added.</param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="GetNavBarHasShadow">
+      <MemberSignature Language="C#" Value="public static bool GetNavBarHasShadow (Xamarin.Forms.BindableObject obj);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig bool GetNavBarHasShadow(class Xamarin.Forms.BindableObject obj) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Xamarin.Forms.Shell.GetNavBarHasShadow(Xamarin.Forms.BindableObject)" />
+      <MemberSignature Language="F#" Value="static member GetNavBarHasShadow : Xamarin.Forms.BindableObject -&gt; bool" Usage="Xamarin.Forms.Shell.GetNavBarHasShadow obj" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Xamarin.Forms.Core</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
       <Parameters>
         <Parameter Name="obj" Type="Xamarin.Forms.BindableObject" />
@@ -1112,6 +1172,24 @@ await Shell.Current.GoToAsync("app://xamarin.com/xaminals/animals/monkeys");
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="NavBarHasShadowProperty">
+      <MemberSignature Language="C#" Value="public static readonly Xamarin.Forms.BindableProperty NavBarHasShadowProperty;" />
+      <MemberSignature Language="ILAsm" Value=".field public static initonly class Xamarin.Forms.BindableProperty NavBarHasShadowProperty" />
+      <MemberSignature Language="DocId" Value="F:Xamarin.Forms.Shell.NavBarHasShadowProperty" />
+      <MemberSignature Language="F#" Value=" staticval mutable NavBarHasShadowProperty : Xamarin.Forms.BindableProperty" Usage="Xamarin.Forms.Shell.NavBarHasShadowProperty" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Xamarin.Forms.Core</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="NavBarIsVisibleProperty">
       <MemberSignature Language="C#" Value="public static readonly Xamarin.Forms.BindableProperty NavBarIsVisibleProperty;" />
       <MemberSignature Language="ILAsm" Value=".field public static initonly class Xamarin.Forms.BindableProperty NavBarIsVisibleProperty" />
@@ -1488,6 +1566,30 @@ await Shell.Current.GoToAsync("app://xamarin.com/xaminals/animals/monkeys");
       <Docs>
         <param name="obj">To be added.</param>
         <param name="menuItemTemplate">To be added.</param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="SetNavBarHasShadow">
+      <MemberSignature Language="C#" Value="public static void SetNavBarHasShadow (Xamarin.Forms.BindableObject obj, bool value);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig void SetNavBarHasShadow(class Xamarin.Forms.BindableObject obj, bool value) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Xamarin.Forms.Shell.SetNavBarHasShadow(Xamarin.Forms.BindableObject,System.Boolean)" />
+      <MemberSignature Language="F#" Value="static member SetNavBarHasShadow : Xamarin.Forms.BindableObject * bool -&gt; unit" Usage="Xamarin.Forms.Shell.SetNavBarHasShadow (obj, value)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Xamarin.Forms.Core</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Void</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="obj" Type="Xamarin.Forms.BindableObject" />
+        <Parameter Name="value" Type="System.Boolean" />
+      </Parameters>
+      <Docs>
+        <param name="obj">To be added.</param>
+        <param name="value">To be added.</param>
         <summary>To be added.</summary>
         <remarks>To be added.</remarks>
       </Docs>
