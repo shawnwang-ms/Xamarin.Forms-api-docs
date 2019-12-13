@@ -138,7 +138,7 @@ MainPage = new CarouselPage {
         <Parameter Name="item" Type="System.Object" />
       </Parameters>
       <Docs>
-        <param name="item">The object representing the model ofr the page.</param>
+        <param name="item">The object representing the model of the page.</param>
         <summary>Creates a default page, suitable for display in <c>this</c><see cref="T:Xamarin.Forms.CarouselPage" />, for an object.</summary>
         <returns>A page that is titled with the string value of <paramref name="item" />.</returns>
         <remarks>This returns a new <see cref="T:Xamarin.Forms.Page" /> object that has its <see cref="P:Xamarin.Forms.Page.Title" /> property set to the value of <see cref="M:System.Object.ToString" /> when called on <paramref name="item" />.</remarks>
