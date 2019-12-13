@@ -32,7 +32,7 @@
       </AssemblyInfo>
       <Parameters />
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Initializes a new instance of the CarouselView class.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -50,8 +50,8 @@
         <ReturnType>System.Object</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets the currently displayed item.</summary>
+        <value>The currently displayed item.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -69,7 +69,7 @@
         <ReturnType>System.EventHandler&lt;Xamarin.Forms.CurrentItemChangedEventArgs&gt;</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Event that is raised when the <see cref="P:Xamarin.Forms.CarouselView.CurrentItem" /> property is changed.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -87,8 +87,8 @@
         <ReturnType>System.Windows.Input.ICommand</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets the command to invoke when the <see cref="P:Xamarin.Forms.CarouselView.CurrentItem" /> property is changed. This is a bindable property.</summary>
+        <value>A command to invoke when the <see cref="P:Xamarin.Forms.CarouselView.CurrentItem" /> property is changed The default value is <see langword="null" />.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -106,8 +106,8 @@
         <ReturnType>System.Object</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets the parameter to pass to the <see cref="P:Xamarin.Forms.CarouselView.CurrentItemChangedCommand" /> property. This is a bindable property.</summary>
+        <value>A object to pass to the <see cref="P:Xamarin.Forms.CarouselView.CurrentItemChangedCommand" /> property. The default value is <see langword="null" />.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -125,7 +125,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.CurrentItemChangedCommandParameter" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -143,7 +143,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.CurrentItemChangedCommandParameter" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -161,7 +161,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.CurrentItem" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -215,8 +215,8 @@
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets a value indicating whether the CarouselView should allow over-scroll/inertia/bounce when scrolling past the end of the items.</summary>
+        <value><see langword="true" /> if bounce is enabled. Default is <see langword="true" />.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -234,7 +234,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.IsBounceEnabled" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -252,8 +252,8 @@
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets a value indicating whether the CarouselView is scrolling because of a swipe event.</summary>
+        <value><see langword="true" /> if dragging. Default is <see langword="false" />.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -271,7 +271,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.IsDragging" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -289,8 +289,8 @@
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets a value that indicates whether the scroll operation should animate.</summary>
+        <value><see langword="true" /> if should animate. Default is <see langword="true" />.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -308,7 +308,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.IsScrollAnimated" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -331,8 +331,8 @@
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>For internal use by the Xamarin.Forms platform. Gets a value indicating whether the CarouselView is scrolling.</summary>
+        <value><see langword="true" /> if scrolling. Default is <see langword="false" />.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -350,8 +350,8 @@
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets a value that indicates whether the CarouselView should accept swipe events.</summary>
+        <value><see langword="true" /> if should accept swipe events. Default is <see langword="true" />.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -369,7 +369,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.IsSwipeEnabled" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -387,8 +387,8 @@
         <ReturnType>Xamarin.Forms.LinearItemsLayout</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets a layout that defines how the items should be displayed.</summary>
+        <value>A LinearItemsLayout that defines how the items should be displayed.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -406,7 +406,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.ItemsLayout" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -445,8 +445,8 @@
         <Parameter Name="args" Type="System.EventArgs" />
       </Parameters>
       <Docs>
-        <param name="args">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="args">The event arguments.</param>
+        <summary>Method that is called when the <see cref="E:Xamarin.Forms.CarouselView.CurrentItemChanged" /> event is raised.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -467,8 +467,8 @@
         <Parameter Name="args" Type="Xamarin.Forms.PositionChangedEventArgs" />
       </Parameters>
       <Docs>
-        <param name="args">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="args">The event arguments.</param>
+        <summary>Method that is called when the <see cref="E:Xamarin.Forms.CarouselView.PositionChanged" /> event is raised.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -489,8 +489,8 @@
         <Parameter Name="e" Type="Xamarin.Forms.ItemsViewScrolledEventArgs" />
       </Parameters>
       <Docs>
-        <param name="e">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="e">The event arguments.</param>
+        <summary>Method that is called when the <see cref="E:Xamarin.Forms.CollectionView.Scrolled" /> event is raised.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -508,8 +508,8 @@
         <ReturnType>Xamarin.Forms.Thickness</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets a value that defines how large the content inset of the current item should be to create a "peek area" on the edge(s), allowing other items to be partially or wholly visible.</summary>
+        <value>A thickness that defines how large the content inset of the current item should be to create a "peek area" on the edge(s), allowing other items to be partially or wholly visible. The default value is 0 on all sides.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -527,7 +527,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.PeekAreaInsets" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -545,8 +545,8 @@
         <ReturnType>System.Int32</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets a value that indicates the currently selected position, or index, in the collection of items.</summary>
+        <value>An integer that indicates the currently selected position, or index, in the collection of items. Default is 0.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -564,7 +564,7 @@
         <ReturnType>System.EventHandler&lt;Xamarin.Forms.PositionChangedEventArgs&gt;</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Event that is raised when the <see cref="P:Xamarin.Forms.CarouselView.Position" /> property is changed.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -582,8 +582,8 @@
         <ReturnType>System.Windows.Input.ICommand</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets the command to invoke when the <see cref="P:Xamarin.Forms.CarouselView.Position" /> property is changed. This is a bindable property.</summary>
+        <value>A command to invoke when the <see cref="P:Xamarin.Forms.CarouselView.Position" /> property is changed The default value is <see langword="null" />.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -601,8 +601,8 @@
         <ReturnType>System.Object</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets or sets the parameter to pass to the <see cref="P:Xamarin.Forms.CarouselView.PositionChangedCommand" /> property. This is a bindable property.</summary>
+        <value>A object to pass to the <see cref="P:Xamarin.Forms.CarouselView.PositionChangedCommand" /> property. The default value is <see langword="null" />.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -620,7 +620,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.PositionChangedCommandParameter" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -638,7 +638,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.PositionChangedCommand" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -656,7 +656,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.Position" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -700,8 +700,8 @@
         <Parameter Name="item" Type="System.Object" />
       </Parameters>
       <Docs>
-        <param name="item">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="item">For internal use by the Xamarin.Forms platform.</param>
+        <summary>For internal use by the Xamarin.Forms platform.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -727,8 +727,8 @@
         <Parameter Name="value" Type="System.Boolean" />
       </Parameters>
       <Docs>
-        <param name="value">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="value">For internal use by the Xamarin.Forms platform.</param>
+        <summary>For internal use by the Xamarin.Forms platform.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -761,9 +761,9 @@
         </Parameter>
       </Parameters>
       <Docs>
-        <param name="constructorHint">To be added.</param>
-        <param name="memberName">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="constructorHint">For internal use by the Xamarin.Forms platform.</param>
+        <param name="memberName">For internal use by the Xamarin.Forms platform.</param>
+        <summary>For internal use by the Xamarin.Forms platform.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -799,8 +799,8 @@
         <ReturnType>System.Collections.Generic.List&lt;Xamarin.Forms.View&gt;</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
-        <value>To be added.</value>
+        <summary>Gets a list of views that are currently displayed by the CarouselView.</summary>
+        <value>A list of views that are currently displayed by the CarouselView.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -818,7 +818,7 @@
         <ReturnType>Xamarin.Forms.BindableProperty</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>Backing store for the <see cref="P:Xamarin.Forms.CarouselView.VisibleViews" /> property.</summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
